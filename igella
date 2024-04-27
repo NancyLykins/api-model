@@ -1,0 +1,31 @@
+crete database teste;
+create database teste;
+drop database teste;
+databases
+show databases
+.databases
+create database teste;
+show databases;
+show database;
+show dbs;
+/s
+;
+\s
+\1
+\l
+\q
+create database test
+;
+databases
+;
+show databases;
+show dbs;
+\l
+\q
+SELECT boot_val,reset_val
+FROM pg_settings
+WHERE name='listen_addresses';;
+\q
+\q
+\l
+\s igella;
